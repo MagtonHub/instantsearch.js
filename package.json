@@ -137,7 +137,7 @@
     "preact": "8.1.0",
     "preact-compat": "3.17.0",
     "preact-rheostat": "2.1.1",
-    "prop-types": "15.5.10",
+    "prop-types": "15.6.1",
     "to-factory": "1.0.0"
   },
   "jest": {
